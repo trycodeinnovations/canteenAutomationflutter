@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\dell\Desktop\project23\shine_on_rent\.idea\misc.xml" timestamp="1696333724881" />
+    <file path="C:\Users\dell\Desktop\project23\shine_on_rent\.idea\modules.xml" timestamp="1696333724896" />
+    <file path="C:\Users\dell\Desktop\project23\shine_on_rent\.idea\shine_on_rent.iml" timestamp="1696334253418" />
+    <file path="C:\Users\dell\Desktop\project23\shine_on_rent\.idea\workspace.xml" timestamp="1708413149265" />
+  </project-files>
+</conversion>
+

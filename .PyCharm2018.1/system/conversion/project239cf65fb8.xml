@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\dell\Desktop\project23\.idea\misc.xml" timestamp="1708666260618" />
+    <file path="C:\Users\dell\Desktop\project23\.idea\modules.xml" timestamp="1708666260625" />
+    <file path="C:\Users\dell\Desktop\project23\.idea\project23.iml" timestamp="1708666330234" />
+    <file path="C:\Users\dell\Desktop\project23\.idea\workspace.xml" timestamp="1713515392518" />
+  </project-files>
+</conversion>
+

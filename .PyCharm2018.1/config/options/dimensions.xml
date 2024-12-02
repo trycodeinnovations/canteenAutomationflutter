@@ -1,0 +1,16 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="635" y="84" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="963" y="458" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="510" y="213" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@144dpi" x="557" y="119" />
+    <location key="#views.0.0.1920.1080@144dpi" x="594" y="0" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080@144dpi" x="431" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@144dpi" x="585" y="197" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="177" y="0" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1853" height="174" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1853" height="174" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1853" height="174" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1853" height="174" />
+  </component>
+</application>

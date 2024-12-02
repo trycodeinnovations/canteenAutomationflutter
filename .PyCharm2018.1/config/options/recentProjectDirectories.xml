@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/project23" />
+        <option value="$USER_HOME$/Desktop/project23/shine_on_rent" />
+        <option value="$USER_HOME$/pycharmprojects" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/project23" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/project23" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/project23">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1714205541185" />
+              <option name="buildTimestamp" value="1526389787739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/project23/shine_on_rent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1708666260054" />
+              <option name="buildTimestamp" value="1526389797386" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/pycharmprojects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-181.4892.64" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1707377735225" />
+              <option name="buildTimestamp" value="1526389758748" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
